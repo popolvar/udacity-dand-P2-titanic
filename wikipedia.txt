@@ -1,5 +1,6 @@
 		Wikipedia  		Enciclopedia Titanica
 Children	109			128
+* survived	56
 
 Woman Pass.	402
 * survived	296
@@ -10,8 +11,8 @@ Male Pass	805
 * survived	146
 Male Crew	885
 
-Total Pass	1207
-* survived	442
+Total Pass	1316
+* survived	507
 
 Children	<=11	<=12	<=13	<=14
 Class I	(6)	5	5	7	7
