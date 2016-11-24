@@ -12,7 +12,9 @@ Male Pass	805
 Male Crew	885
 
 Total Pass	1316
-* survived	507
+* survived	498
+
+Crew Total	908
 
 Children	<=11	<=12	<=13	<=14
 Class I	(6)	5	5	7	7
